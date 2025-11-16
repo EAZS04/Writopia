@@ -165,24 +165,24 @@
                     <h2 class="section-title">Anggota Tim</h2>
                     <div class="team-members">
                         <div class="member-card">
-                            <div class="member-name">Ahmad Fauzi</div>
-                            <div class="member-role">Project Manager</div>
-                            <p>Bertanggung jawab atas perencanaan dan koordinasi proyek.</p>
+                            <div class="member-name">Audry Nabila</div>
+                            <div class="member-role">Dev FullStack</div>
+                            <p>Dengan NIM 1223009</p>
                         </div>
                         <div class="member-card">
-                            <div class="member-name">Siti Nurhaliza</div>
-                            <div class="member-role">UI/UX Designer</div>
-                            <p>Mendesain antarmuka yang menarik dan mudah digunakan.</p>
+                            <div class="member-name">Elan Nurhaliza</div>
+                            <div class="member-role">Dev OP</div>
+                            <p>Dengan NIM 1223007</p>
                         </div>
                         <div class="member-card">
-                            <div class="member-name">Budi Santoso</div>
-                            <div class="member-role">Frontend Developer</div>
-                            <p>Mengimplementasikan desain menjadi kode yang fungsional.</p>
+                            <div class="member-name">Azzahra Maharani</div>
+                            <div class="member-role">Dev PM</div>
+                            <p>Dengan NIM 1223008</p>
                         </div>
                         <div class="member-card">
-                            <div class="member-name">Maya Sari</div>
-                            <div class="member-role">Backend Developer</div>
-                            <p>Membangun logika dan database untuk aplikasi.</p>
+                            <div class="member-name">Sekar NT</div>
+                            <div class="member-role">Dev PM</div>
+                            <p>Dengan NIM 1233016</p>
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@
                         
                         <p>Dengan Writopia, tim dapat bekerja sama dalam satu dokumen secara bersamaan, melihat perubahan yang dilakukan oleh anggota lain, dan memberikan komentar atau saran untuk perbaikan. Platform ini cocok digunakan oleh berbagai kalangan, mulai dari penulis profesional, akademisi, hingga pelajar yang sedang mengerjakan tugas kelompok.</p>
                         
-                        <p>Fitur unggulan Writopia termasuk editor teks yang kaya, sistem version control untuk melacak perubahan, mode kolaborasi real-time, dan kemampuan ekspor ke berbagai format file. Kami berkomitmen untuk memberikan pengalaman menulis yang menyenangkan dan produktif bagi semua pengguna.</p>
+                        <p>Platform Simpel untuk Membuat dan Membaca Cerita</p>
                     </div>
                 </div>
                 
@@ -207,7 +207,6 @@
                         <ul style="margin-left: 20px; margin-bottom: 15px;">
                             <li>Menyediakan alat yang intuitif dan powerful untuk proses menulis kolaboratif</li>
                             <li>Mendorong terciptanya komunitas penulis yang saling mendukung</li>
-                            <li>Mengembangkan teknologi yang memudahkan kolaborasi tanpa batas geografis</li>
                             <li>Memberikan akses yang mudah dan terjangkau bagi semua kalangan</li>
                         </ul>
                     </div>
